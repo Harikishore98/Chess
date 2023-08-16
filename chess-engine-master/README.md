@@ -3,7 +3,7 @@
 
 
 
-[Eddie's YouTube channel](https://www.youtube.com/channel/UCaEohRz5bPHywGBwmR18Qww)
+
 
 
 ## Technologies
